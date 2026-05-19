@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "release_notes": "Primera versión estable de Modulo Clinic.",
+    "download_url": "https://github.com/Modulo-Software/modulo-clinic-releases/releases/latest",
+    "installer_url": "https://github.com/Modulo-Software/modulo-clinic-releases/releases/download/v1.0.0/ModuloClinic-Setup.exe"
+}
